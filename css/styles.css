@@ -1,0 +1,132 @@
+/* Header */
+
+header {
+    background-image: url("./../images/background.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+
+.title-header {
+    color: white;
+    text-align: center;
+    padding-top: 12rem;
+}
+
+.title-header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.title-header p {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.title-header a {
+    text-decoration: none;
+}
+
+.hover:hover {
+    color: #c9620e !important;
+}
+
+.btn-cv {
+    font-size: 1.3rem;
+    background-color: #343a40;
+    padding: 6px 15px;
+    border-radius: 20px;
+    color: white;
+}
+
+/* Footer */
+
+footer {
+    background-color: #343a40;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+
+
+/* Main */
+
+.title-main {
+    color: #c9620e;
+    font-weight: bold;
+}
+
+.div-main {
+    background-color: #dddddd;
+    padding: 5px 20px;
+    margin-bottom: 20px;
+    border: 1px solid #343a40;
+    border-radius: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.logo-html {
+    width: 11.5rem;
+}
+
+.logo-css {
+    width: 10rem;
+}
+
+.logo-bootstrap {
+    width: 9rem;
+    margin-top: 2rem;
+}
+
+.logo-wordpress {
+    width: 13rem;
+}
+
+.logo-js {
+    width: 10rem;
+}
+
+.logo-jquery {
+    width: 15rem;
+    margin-top: 7.5rem;
+}
+
+.logo-bdd {
+    width: 11rem;
+}
+
+.logo-php {
+    width: 13rem;
+    margin-top: 3.7rem;
+}
+
+.logo-symfony {
+    width: 10rem;
+    margin-top: 1rem;
+}
+
+.title-logo {
+    color: #343a40;
+}
+
+.title-forma {
+    color: #c9620e;
+    font-size: 2rem;
+    border-radius: 20px;
+}
+
+.div-forma {
+    background-color: #dddddd;
+    border: 1px solid #343a40;
+    border-radius: 20px;
+}
+
+.title-forma:hover {
+    color: #343a40;
+    background-color: #c9620e;
+}
